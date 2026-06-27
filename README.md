@@ -1,2 +1,2 @@
 # SpiceGarden
-https://raj0854.github.io/SpiceGarden/
+https://spice-garden-nine-tau.vercel.app/
